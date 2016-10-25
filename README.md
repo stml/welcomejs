@@ -26,7 +26,7 @@ Place the `welcome.js` file on your server, and add the following line (with the
 
 ## Feedback
 
-Please feel free to add comments
+Please feel free to send comments, requests, and issue reports. In particular, suggestions for better and more helpful links are welcome.
 
 ## Background
 
