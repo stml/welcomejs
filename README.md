@@ -32,7 +32,7 @@ Please feel free to send comments, requests, and issue reports. In particular, s
 
 **welcome.js** was inspired by the use on certain websites of aggressive warnings in the console, which might appear frightening and off-putting to inexperienced users.
 
-More info can be found in [this blog post](http://booktwo.org/notebook/coming-soon). 
+More info can be found in [this blog post](http://booktwo.org/notebook/welcome-js/). 
 
 ## Author
 
