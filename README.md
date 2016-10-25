@@ -20,19 +20,19 @@ Place the `welcome.js` file on your server, and add the following line (with the
 <script language="JavaScript" type="text/javascript" src="welcome.js"></script>
 ```
 
-### Hosting
+### Hosting and Distribution
 
-**welcome.js** is currently only available locally. If you like it, please **star this project**, and perhaps we'll get it onto [cdnjs](https://cdnjs.com).
+**welcome.js** is currently only available for downloading and local installation. If you like it, please **star this project**, and perhaps we'll get it onto [cdnjs](https://cdnjs.com).
 
 ## Feedback
 
-Please feel free to send comments, requests, and issue reports. In particular, suggestions for better and more helpful links are welcome.
+Please feel free to send comments, requests, and issues. In particular, suggestions for better and more helpful links are welcome.
 
 ## Background
 
 **welcome.js** was inspired by the use on certain websites of aggressive warnings in the console, which might appear frightening and off-putting to inexperienced users.
 
-More info can be found in [this blog post](http://booktwo.org/notebook/coming-soon). 
+More information can be found in [this blog post](http://booktwo.org/notebook/welcome-js). 
 
 ## Author
 
