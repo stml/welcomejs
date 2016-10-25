@@ -1,0 +1,6 @@
+{
+  "name": "Welcome.js",
+  "tagline": "",
+  "body": "# welcome.js\r\n\r\nThis is the demo page for **welcome.js**, a tiny javascript file you can add to any web page to help novice users get the most out of the web. \r\n\r\n[Download it here](https://github.com/stml/welcomejs)\r\n\r\n## Do it\r\n\r\nTo see the script in action, open the console.\r\n\r\nOn Mac OSX, you can do the following. Sorry I don't know about other systems, but you can probably work it out.\r\n\r\n* **Firefox**: Tools > Web Developer > Web Console (Opt-Cmd-K)\r\n* **Chrome**:  View > Developer > Javascript Console (Opt-Cmd-J)\r\n* **Safari**: Develop (Must be enabled in options) > Show Web Inspector (Opt-Cmd-I) / Select Console",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
