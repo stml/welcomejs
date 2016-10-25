@@ -36,7 +36,7 @@ More information can be found in [this blog post](http://booktwo.org/notebook/we
 
 ## Author
 
-* **James Bridle** - [shorttermmemoryloss.com](https://shorttermmemoryloss.com) - [stml](https://github.com/stml)
+* **James Bridle** - [shorttermmemoryloss.com](http://shorttermmemoryloss.com) - [stml](https://github.com/stml)
 
 ## License
 
