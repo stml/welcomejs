@@ -1,6 +1,6 @@
 # welcome.js
 
-**welcome.js** is a tiny javascript file you can add to any web page to help novice users get the most out of the web. 
+**welcome.js** is a tiny JavaScript file you can add to any web page to help novice users get the most out of the web. 
 
 ## Being Welcoming
 
@@ -11,6 +11,8 @@ This takes specialised knowledge, and the discovery of the developer console is 
 **welcome.js** adds a friendly message to the console when it's first opened, as well as links for [users](http://contemporary-home-computing.org/turing-complete-user/) to find out more about the console, and programming in general.
 
 ![welcome.js screenshot](https://raw.githubusercontent.com/stml/welcomejs/master/screenshot.png)
+
+Try the [demo](https://stml.github.io/welcomejs/).
 
 ## Installing
 
