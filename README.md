@@ -26,7 +26,11 @@ Place the `welcome.js` file on your server, and add the following line (with the
 
 ### Hosting and Distribution
 
-**welcome.js** is currently only available for downloading and local installation. If you like it, please **star this project**, and perhaps we'll get it onto [cdnjs](https://cdnjs.com).
+You can use **welcome.js** from a CDN with a URL such as the following:
+https://cdn.rawgit.com/stml/welcomejs/0dccd5025823fa0d340cdc6b4ced51586a6ab1e3/welcome.js
+
+Or you can download **welcome.js** and install it locally.
+If you like it, please **star this project**, and perhaps we'll get it onto [cdnjs](https://cdnjs.com).
 
 ## Feedback
 
