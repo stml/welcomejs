@@ -1,8 +1,8 @@
 (function(){
 
-Object.defineProperty(window, "console", {
-    value: console
-});
+if (!window.console) {
+    return;
+}
 
 var i = 0;
 if (!i) {
