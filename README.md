@@ -21,7 +21,7 @@ You can see the script in action on [this demo page](https://stml.github.io/welc
 Place the `welcome.js` file on your server, and add the following line (with the correct path) anywhere on your page. Within the `<head>` works just fine.
 
 ```
-<script language="JavaScript" type="text/javascript" src="welcome.js"></script>
+<script src="welcome.js"></script>
 ```
 
 ### Hosting and Distribution
