@@ -1,3 +1,5 @@
+(function(){
+
 Object.defineProperty(window, "console", {
     value: console
 });
@@ -18,3 +20,5 @@ if (!i) {
 	    }, 1);
 	    i = 1;
     }
+
+})();
