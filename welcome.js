@@ -7,7 +7,7 @@ if (!window.console) {
 var i = 0;
 if (!i) {
     setTimeout(function () {
-            console.log("%cWelcome!", "font: 3em sans-serif;");
+            console.log("%cWelcome!", "font: 3em sans-serif;  color: green;");
             console.log("%cHello, and welcome to the console. If this is your first time here, make yourself at home. (If not, disregard this message!)", "font: 1.5em sans-serif;");
             console.log("%cWhat you can find down here is what lies underneath the web: its code. You can read, write, rewrite, and manipulate this code to make the web your own.", "font: 1.5em sans-serif;");
             console.log("%cYou can find out more about using the console from these sites:", "font: 1.25 sans-serif;");
