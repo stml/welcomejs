@@ -17,7 +17,7 @@
     "url": "https://github.com/stml/welcomejs/issues"
   },
   "scripts": {
-    "minify": "uglifyjs welcome.js --compress --mangle -o welcome.min.js"
+    "minify": "uglifyjs welcome.js --compress --mangle --comments \"/^!/\" -o welcome.min.js"
   },
   "devDependencies": {
     "uglifyjs": "^2.4.10"
