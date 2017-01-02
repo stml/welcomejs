@@ -1,0 +1,24 @@
+{
+  "name": "welcome.js",
+  "version": "1.0.0",
+  "description": "welcome.js is a tiny javascript file you can add to any web page to help novice users get the most out of the web.",
+  "main": "welcome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stml/welcomejs.git"
+  },
+  "keywords": [
+    "friendly",
+    "welcome",
+    "help"
+  ],
+  "author": "James Bridle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stml/welcomejs/issues"
+  },
+  "homepage": "https://github.com/stml/welcomejs#readme"
+}
