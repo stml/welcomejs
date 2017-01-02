@@ -40,5 +40,18 @@
   "bugs": {
     "url": "https://github.com/stml/welcomejs/issues"
   },
-  "homepage": "https://github.com/stml/welcomejs#readme"
+  "homepage": "https://github.com/stml/welcomejs#readme",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/stml/welcomejs.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "welcome.js",
+          "welcome.min.js"
+        ]
+      }
+    ]
+  }
 }
