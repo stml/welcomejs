@@ -1,3 +1,9 @@
+/*!
+ * welcome.js (https://github.com/stml/welcomejs)
+ * Copyright 2016 James Bridle
+ * Licensed under the MIT license
+ */
+
 (function() {
     if (!window.console) {
         return;

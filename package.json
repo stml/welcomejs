@@ -6,9 +6,6 @@
   "author": "James Bridle <http://shorttermmemoryloss.com>",
   "license": "MIT",
   "main": "welcome.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stml/welcomejs.git"
@@ -17,7 +14,7 @@
     "url": "https://github.com/stml/welcomejs/issues"
   },
   "scripts": {
-    "minify": "uglifyjs welcome.js --compress --mangle -o welcome.min.js"
+    "minify": "uglifyjs welcome.js --compress --mangle --comments \"/^!/\" -o welcome.min.js"
   },
   "devDependencies": {
     "uglifyjs": "^2.4.10"
@@ -35,12 +32,6 @@
     "welcome",
     "help"
   ],
-  "author": "James Bridle",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/stml/welcomejs/issues"
-  },
-  "homepage": "https://github.com/stml/welcomejs#readme",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/stml/welcomejs.git",
